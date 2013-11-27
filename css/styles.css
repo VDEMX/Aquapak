@@ -1627,7 +1627,7 @@ footer section a {
 .doscol .button {
   margin: 0.5em auto 0.8em!important;
   display: block!important;
-  width: 14em;
+  width: 15em;
 }
 .cuatrocol {
   width: 22.5%;
@@ -2136,7 +2136,7 @@ footer section a {
 #menu .has-sub ul {
   display: none;
   position: absolute;
-  width: 170px;
+  width: 180px;
   top: 100%;
   left: -30px;
 }
