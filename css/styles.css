@@ -944,6 +944,7 @@ footer section a {
   color: #ffffff;
   vertical-align: top;
   display: inline-block;
+  text-align: center;
   font-weight: bold;
   font-size: 15px;
   font-size: 1.5rem;
@@ -1626,7 +1627,7 @@ footer section a {
 .doscol .button {
   margin: 0.5em auto 0.8em!important;
   display: block!important;
-  width: 17em;
+  width: 14em;
 }
 .cuatrocol {
   width: 22.5%;
