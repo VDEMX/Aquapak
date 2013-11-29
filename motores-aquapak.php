@@ -1,5 +1,5 @@
 <?php $active_page="productos"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title><?php echo "$sitio"?> | Motores sumergibles</title>
  		<meta name="description" content="Motores sumergibles AQUA PAK de 4” a baño de aceite de calidad PREMIUM para pozos profundos de 4” de diámetro y mayores, norias, cisternas, etc.">
 		<meta name="keywords" content="motores, sumergibles, baño de aceite, calidad premium, pozos, profundos, norias, cisternas">
@@ -8,7 +8,7 @@
  <body>
  <section id="container">
  
- 	<?php include("header.php"); ?>
+ 	<?php include("includes/header.php"); ?>
  	
  	<section id="ax" class="active">
  	<div class="cien">
@@ -93,4 +93,4 @@
 		<div class="clear"></div>
 	</section>
  	
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/footer.php"); ?>

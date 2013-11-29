@@ -1,5 +1,5 @@
 <?php $active_page="productos"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title><?php echo "$sitio"?> | Serie Aly</title>
  		<meta name="description" content="Bomba de superficie tipo JET, ideal para aplicaciones donde se requiere que el agua no tenga contacto con materiales sujetos a oxidación.">
 		<meta name="keywords" content="bombas, superficie, tipo JET, hidroneumáticos, riego, aspersión, depósitos,tinacos">
@@ -9,7 +9,7 @@
  <body>
  <section id="container">
  
- 	<?php include("header.php"); ?>
+ 	<?php include("includes/header.php"); ?>
  	
  	<section id="ax" class="active">
  	<div class="cien">
@@ -77,4 +77,4 @@
 		<div class="clear"></div>
 	</section>
  	
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/footer.php"); ?>

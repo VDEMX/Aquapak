@@ -22,6 +22,7 @@ function inicio ()
 	}
 }
 
+// Scripts para iOS
 if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)))
 {
 // Ocultar la barra de dirreciones en iOS

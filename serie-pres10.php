@@ -1,5 +1,5 @@
 <?php $active_page="productos"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title><?php echo "$sitio"?> | Serie PresKit</title>
  		<meta name="description" content="Consiste en un Sistema Hidroneumático completo en forma de paquete que proporciona agua a presión constante, en toda la red hidráulica de la casa.">
 		<meta name="keywords" content="Sistema, Hidroneumático, presión, constante,  hidráulica, casa">
@@ -9,7 +9,7 @@
  <body>
  <section id="container">
  
- 	<?php include("header.php"); ?>
+ 	<?php include("includes/header.php"); ?>
  	
  	<section id="ax" class="active">
  	<div class="cien">
@@ -93,4 +93,4 @@
 
 	</section>
  	
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/footer.php"); ?>

@@ -1,5 +1,5 @@
 <?php $active_page="productos"; ?>
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
  		<title><?php echo "$sitio"?> | Serie SIGMA</title>
  		<meta name="description" content="Bombas sumergibles para achique">
 		<meta name="keywords" content="bombas, sumergibles, achique, lodos,Desagüe, Vaciado, Fuentes decorativas, cascadas">
@@ -8,7 +8,7 @@
  	
  <body>
 <section id="container">
- 	<?php include("header.php"); ?>
+ 	<?php include("includes/header.php"); ?>
  	<section id="ax" class="active">
  		<div class="cien">
 	 		<h2 class="headline lodo">Serie SIGMA</h2>
@@ -102,4 +102,4 @@
 			</p>
 
 	</section>
- 	<?php include("footer.php"); ?>
+ 	<?php include("includes/footer.php"); ?>
